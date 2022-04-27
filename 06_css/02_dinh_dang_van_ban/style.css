@@ -1,0 +1,14 @@
+.content {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+body {
+    font-family: Tahoma;
+    font-size: 200%;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}

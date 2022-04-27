@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #E7E7E7;
+}
+
+header, nav, footer, content, section, article, aside {
+
+    text-align: center;
+    font-size: 50px;
+    border: 3px solid #968d8d;
+    background: white;
+    margin: 5px;
+}
+
+header, nav, footer {
+}
+
+footer {
+    clear: both;
+}
+
+#content {
+}
+
+#side-bar-left {
+    float: left;
+    width: 70%;
+}
+
+section {
+    height: 200px;
+}
+
+article {
+    height: 200px;
+}
+
+aside {
+    float: left;
+    width: calc(30% - 10px);
+    height: 405px;
+}
